@@ -1,0 +1,43 @@
+#heading{
+     background-color: black;
+  color: white;
+    text-decoration: none; 
+     text-align: center;
+      overflow: hidden;
+
+}  
+#first{
+     overflow: hidden;
+    background-color: rgb(253, 253, 228);
+    text-decoration: none;   
+    padding-left: 38%;
+     
+}
+ul{
+    list-style-type: none;
+text-decoration: none;
+   padding-left: 1px;
+
+}
+ul,li{
+
+    text-decoration: none; 
+    float: left;
+    padding-right: 35px;
+  
+    
+}
+
+#skills1{
+    text-align: center;
+
+}
+#contacts1{
+     text-align: center;
+
+}
+img{
+     width: 20%;
+  height: 20%;
+  float: right;
+}
