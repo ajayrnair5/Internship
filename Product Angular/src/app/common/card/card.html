@@ -1,0 +1,13 @@
+<div class="card  h-100" style="width: 18rem;">
+  <img [src]="card.image" class="card-img-top" alt="..." style="height: 180px; object-fit: cover; width: 100%;">
+  <div class="card-body">
+    <h5 class="card-title">{{card.title}}</h5>
+    <p class="card-text">{{card.description}}</p>
+     <div class="card-body">
+    <p class="card-text">{{card.price}}</p>
+   </div>
+    <a routerLink='singleproduct/{{card.id}}' class="btn btn-primary">Click Me</a>
+    
+  </div>`
+  
+</div>
